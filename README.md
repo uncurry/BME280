@@ -6,7 +6,7 @@ The BME280 is a combined humidity, pressure and temperature sensor.
 
 This Device is available from ControlEverything.com [SKU: BME280_I2CS]
 
-https://www.controleverything.com/content/Humidity?sku=BME280_I2CS
+https://shop.controleverything.com/products/digital-humidity-pressure-and-temperature-sensor?variant=25687652235
 
 This Sample code can be used with Raspberry Pi, Arduino, Particle Photon, Beaglebone Black and Onion Omega.
 
